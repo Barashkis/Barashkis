@@ -8,7 +8,7 @@ I am student of ITMO University and every day I'm learning something new that re
 
 ### Connect with me:
 
-[<img align="left" alt="Barashkis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/barashkis)
+[<img align="left" alt="Barashkis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/duha_baranov12)
 [<img align="left" alt="Barashkis | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />](https://vk.com/barashk1s)
 [<img alt="Barashkis | Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/DushEzzz)
 
