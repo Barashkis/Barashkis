@@ -15,7 +15,6 @@ I am student of ITMO University and every day I'm learning something new that re
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg"/>
-<img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/svg/29/29165.svg"/>
 <img align="left" alt="PostgreSQL" width="26px" src="https://simpleicons.org/icons/postgresql.svg"/>
 <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg"/>
 <img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg"/>
