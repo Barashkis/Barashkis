@@ -1,7 +1,7 @@
 ### Hi there, I'm Andrew "Barashkis" Baranov :D
 
 * 🔭 I’m currently working with Rosatom on technical supporting our Telegram bot
-* 🖥️ My specialization is data scraping, Python scripts development of Telegram bots, RESTful API
+* 🖥️ My specialization is data scraping, Python scripts, development of Telegram bots, RESTful API
 * 🌱 I’m currently learning everything to get success in future
 * ⚡ Fun fact: I love computer games, football and Python  
 
