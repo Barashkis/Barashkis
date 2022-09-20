@@ -24,5 +24,3 @@ If you want me to do some work using Python for you, connect with me at [FL.ru](
 <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg"/>
 <img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg"/>
 <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
-
----
