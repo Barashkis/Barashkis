@@ -1,6 +1,7 @@
 ### Hi there, I'm Andrew "Barashkis" Baranov :D
 
-* 🔭 I’m currently working on my first project - portfolio website
+* 🔭 I’m currently working with Rosatom on technical supporting our Telegram bot
+* 🖥️ My specialization is data scraping, Python scripts development of Telegram bots, RESTful API
 * 🌱 I’m currently learning everything to get success in future
 * ⚡ Fun fact: I love computer games, football and Python  
 
@@ -11,6 +12,10 @@ I am student of ITMO University and every day I'm learning something new that re
 [<img align="left" alt="Barashkis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/duha_baranov12)
 [<img align="left" alt="Barashkis | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />](https://vk.com/barashk1s)
 [<img alt="Barashkis | Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/DushEzzz)
+
+### Do you need a freelancer?
+
+If you want me to do some work using Python for you, connect with me at [FL.ru](https://www.fl.ru/users/dushezbaranov)
 
 ### Languages and Tools:
 
